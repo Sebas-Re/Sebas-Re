@@ -31,20 +31,20 @@
 
 <p align="center">
   <!-- LetsDefend: reemplazá TU_LINK_... por el link de "Mostrar credencial" de cada una -->
-  <a href="TU_LINK_SIEM_101"><img src="https://img.shields.io/badge/SIEM%20101-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="SIEM 101" /></a>
-  <a href="TU_LINK_SOC_FUNDAMENTALS"><img src="https://img.shields.io/badge/SOC%20Member-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="SOC Member" /></a>
-  <a href="TU_LINK_HOW_TO_INVESTIGATE_SIEM"><img src="https://img.shields.io/badge/Investigar%20Alertas%20SIEM-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="How to Investigate a SIEM Alert" /></a>
-  <a href="TU_LINK_INCIDENT_MANAGEMENT"><img src="https://img.shields.io/badge/Incident%20Management-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Incident Management" /></a>
-  <a href="TU_LINK_WINDOWS_IR"><img src="https://img.shields.io/badge/Windows%20Incident%20Response-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Windows Incident Response" /></a>
-  <a href="TU_LINK_PHISHING"><img src="https://img.shields.io/badge/Phishing%20Expert-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Phishing Expert" /></a>
-  <a href="TU_LINK_WEB_ATTACK"><img src="https://img.shields.io/badge/Web%20Attack%20Investigator-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Web Attack Investigator" /></a>
+  <a href="https://app.letsdefend.io/my-rewards/detail/60266dca-1ca3-4d4e-8274-9a7214accb05"><img src="https://img.shields.io/badge/SIEM%20101-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="SIEM 101" /></a>
+  <a href="https://app.letsdefend.io/my-rewards/detail/d8c3a8af-58e8-4926-a758-13941b865caf"><img src="https://img.shields.io/badge/SOC%20Member-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="SOC Member" /></a>
+  <a href="https://app.letsdefend.io/my-rewards/detail/9325c02c-420c-4582-9526-50522b2c98b7"><img src="https://img.shields.io/badge/Investigar%20Alertas%20SIEM-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="How to Investigate a SIEM Alert" /></a>
+  <a href="https://app.letsdefend.io/my-rewards/detail/9415019a-7fdf-4142-96f6-097c33291a58"><img src="https://img.shields.io/badge/Incident%20Management-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Incident Management" /></a>
+  <a href="https://app.letsdefend.io/my-rewards/detail/e02ba0ee-7927-47a6-9479-709f64771bae"><img src="https://img.shields.io/badge/Windows%20Incident%20Response-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Windows Incident Response" /></a>
+  <a href="https://app.letsdefend.io/my-rewards/detail/bce6a7a4-d63f-4bd7-b7ae-47bc9305ea67"><img src="https://img.shields.io/badge/Phishing%20Expert-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Phishing Expert" /></a>
+  <a href="https://app.letsdefend.io/my-rewards/detail/19309a0c-5b7f-4d86-9417-1d00cf6e90b8"><img src="https://img.shields.io/badge/Web%20Attack%20Investigator-LetsDefend-00B4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Web Attack Investigator" /></a>
 </p>
 
 <p align="center">
   <!-- Tokio School: si tenés el certificado en línea, poné su link -->
   <a href="TU_LINK_TOKIO"><img src="https://img.shields.io/badge/Certificado%20en%20Ciberseguridad-Tokio%20School-0B3D91?style=for-the-badge" alt="Tokio School" /></a>
   <!-- Opcional: formación no técnica en IA -->
-  <a href="TU_LINK_ALURA"><img src="https://img.shields.io/badge/Agentes%20de%20IA%20para%20Negocios-Alura%20Latam-FF5A5F?style=for-the-badge" alt="Alura Latam" /></a>
+  <a href="https://app.aluracursos.com/immersion/certificate/997bfe88-19fa-4a44-8e54-57489e3fe732"><img src="https://img.shields.io/badge/Agentes%20de%20IA%20para%20Negocios-Alura%20Latam-FF5A5F?style=for-the-badge" alt="Alura Latam" /></a>
 </p>
 
 ### 🛠️ Stack
