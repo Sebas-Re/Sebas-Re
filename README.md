@@ -60,6 +60,7 @@
 ### 🚀 Proyectos
 
 - **Automatización de búsqueda de empleo en ciberseguridad:** web app que busca ofertas en portales de empresas. **REPO PRIVADO**
+- **Tienda online de componentes de PC: ASP.NET Core Razor Pages + EF Core + SQLite**
 - **Catálogo digital web** y **bot de Discord en Python** integrado con la API de OpenAI, desarrollados como freelance.
 
 
